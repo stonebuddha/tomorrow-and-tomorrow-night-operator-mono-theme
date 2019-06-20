@@ -1,9 +1,9 @@
 {
-    "name": "tomorrow-and-tomorrow-night-operator-mono-theme",
-    "displayName": "Tomorrow and Tomorrow Night Operator Mono Theme",
+    "name": "tomorrow-and-tomorrow-night-operator-mono-theme-tweaked",
+    "displayName": "Tomorrow and Tomorrow Night Operator Mono Theme Tweaked",
     "description": "Copies of the Tomorrow and Tomorrow Night themes with settings to mark certain items as italics and bold",
-    "version": "0.0.6",
-    "publisher": "chiragpat",
+    "version": "0.0.7",
+    "publisher": "stonebuddha",
     "engines": {
         "vscode": "^1.13.0"
     },
