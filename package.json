@@ -13,7 +13,7 @@
     ],
     "repository": {
 		"type": "git",
-		"url": "https://github.com/chiragpat/tomorrow-and-tomorrow-night-operator-mono-theme.git"
+		"url": "https://github.com/stonebuddha/tomorrow-and-tomorrow-night-operator-mono-theme.git"
 	},
     "icon":"icon.png",
     "contributes": {
