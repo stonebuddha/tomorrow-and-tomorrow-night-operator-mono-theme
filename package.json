@@ -21,22 +21,22 @@
             {
                 "label": "Tomorrow Night Bright Operator Mono",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Tomorrow_Night_Bright_OperatorMono.tmTheme"
+                "path": "./themes/Tomorrow_Night_Bright_OperatorMono.tmTheme.json"
             },
             {
                 "label": "Tomorrow Night Eighties Operator Mono",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Tomorrow_Night_Eighties_OperatorMono.tmTheme"
+                "path": "./themes/Tomorrow_Night_Eighties_OperatorMono.tmTheme.json"
             },
             {
                 "label": "Tomorrow Night Operator Mono",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Tomorrow_Night_OperatorMono.tmTheme"
+                "path": "./themes/Tomorrow_Night_OperatorMono.tmTheme.json"
             },
             {
                 "label": "Tomorrow Operator Mono",
                 "uiTheme": "vs",
-                "path": "./themes/Tomorrow_OperatorMono.tmTheme"
+                "path": "./themes/Tomorrow_OperatorMono.tmTheme.json"
             }
         ]
     }
