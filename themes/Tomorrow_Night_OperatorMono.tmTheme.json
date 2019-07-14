@@ -1,7 +1,7 @@
 {
   "comment": "http://chriskempson.com",
   "name": "Tomorrow Night",
-  "settings": [
+  "tokenColors": [
     {
       "settings": {
         "background": "#1D1F21",
