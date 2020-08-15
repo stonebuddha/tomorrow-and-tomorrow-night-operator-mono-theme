@@ -37,6 +37,11 @@
 				"label": "Tomorrow Operator Mono",
 				"uiTheme": "vs",
 				"path": "./themes/Tomorrow_OperatorMono.tmTheme.json"
+			},
+			{
+				"label": "Tomorrow Night Chinoiserie Operator Mono",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Tomorrow_Night_Chinoiserie_OperatorMono.tmTheme.json"
 			}
 		]
 	}

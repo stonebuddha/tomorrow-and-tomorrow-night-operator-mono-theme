@@ -1,0 +1,174 @@
+{
+  "name": "Tomorrow Night - Chinoiserie",
+  "tokenColors": [
+    {
+      "settings": {
+        "background": "#1D1D1D",
+        "caret": "#C4CBCF",
+        "foreground": "#C4CBCF",
+        "invisibles": "#918072",
+        "lineHighlight": "#918072",
+        "selection": "#373737"
+      }
+    },
+    {
+      "name": "Italics",
+      "scope": [
+        "emphasis",
+        "storage",
+        "comment",
+        "entity.other.attribute-name",
+        "entity.other.attribute-name.html",
+        "entity.other.attribute-name.tag.jade",
+        "entity.other.attribute-name.tag.pug",
+        "markup.italic",
+        "keyword.control",
+        "variable.language"
+      ],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Bold",
+      "scope": [
+        "strong",
+        "markup.bold",
+        "markup.heading"
+      ],
+      "settings": {
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Underline",
+      "scope": "markup.underline",
+      "settings": {
+        "fontStyle": "underline"
+      }
+    },
+    {
+      "name": "Comment",
+      "scope": "comment",
+      "settings": {
+        "foreground": "#918072"
+      }
+    },
+    {
+      "name": "Foreground",
+      "scope": [
+        "keyword.operator.class",
+        "constant.other",
+        "source.php.embedded.line"
+      ],
+      "settings": {
+        "fontStyle": "",
+        "foreground": "#C4CBCF"
+      }
+    },
+    {
+      "name": "Variable, String Link, Regular Expression, Tag Name",
+      "scope": [
+        "variable",
+        "support.other.variable",
+        "string.other.link",
+        "string.regexp",
+        "entity.name.tag",
+        "entity.other.attribute-name",
+        "meta.tag",
+        "declaration.tag"
+      ],
+      "settings": {
+        "foreground": "#F07C82"
+      }
+    },
+    {
+      "name": "Number, Constant, Function Argument, Tag Attribute, Embedded",
+      "scope": [
+        "constant.numeric",
+        "constant.language",
+        "support.constant",
+        "constant.character",
+        "variable.parameter",
+        "punctuation.section.embedded",
+        "keyword.other.unit"
+      ],
+      "settings": {
+        "fontStyle": "",
+        "foreground": "#F4A83A"
+      }
+    },
+    {
+      "name": "Class, Support",
+      "scope": [
+        "entity.name.class",
+        "entity.name.type.class",
+        "support.type",
+        "support.class"
+      ],
+      "settings": {
+        "fontStyle": "",
+        "foreground": "#F4CE69"
+      }
+    },
+    {
+      "name": "String, Symbols, Inherited Class, Markup Heading",
+      "scope": [
+        "string",
+        "constant.other.symbol",
+        "entity.other.inherited-class",
+        "markup.heading"
+      ],
+      "settings": {
+        "fontStyle": "",
+        "foreground": "#B2CF87"
+      }
+    },
+    {
+      "name": "Operator, Misc",
+      "scope": [
+        "keyword.operator",
+        "constant.other.color"
+      ],
+      "settings": {
+        "foreground": "#B0D5DF"
+      }
+    },
+    {
+      "name": "Function, Special Method, Block Level",
+      "scope": [
+        "entity.name.function",
+        "meta.function-call",
+        "support.function",
+        "keyword.other.special-method",
+        "meta.block-level"
+      ],
+      "settings": {
+        "fontStyle": "",
+        "foreground": "#8FB2C9"
+      }
+    },
+    {
+      "name": "Keyword, Storage",
+      "scope": [
+        "keyword",
+        "storage",
+        "storage.type",
+        "entity.name.tag.css"
+      ],
+      "settings": {
+        "fontStyle": "",
+        "foreground": "#F2B9B2"
+      }
+    },
+    {
+      "name": "Invalid",
+      "scope": "invalid",
+      "settings": {
+        "background": "#282828",
+        "fontStyle": "",
+        "foreground": "#C4CBCF"
+      }
+    }
+  ]
+}
