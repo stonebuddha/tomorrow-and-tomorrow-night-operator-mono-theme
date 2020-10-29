@@ -158,7 +158,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#F2B9B2"
+        "foreground": "#BE9DB9"
       }
     },
     {
@@ -167,7 +167,24 @@
       "settings": {
         "background": "#282828",
         "fontStyle": "",
-        "foreground": "#C4CBCF"
+        "foreground": "#EEE7F2"
+      }
+    },
+    {
+      "name": "Separator",
+      "scope": "meta.separator",
+      "settings": {
+        "background": "#8FB2C9",
+        "foreground": "#EEE7F2"
+      }
+    },
+    {
+      "name": "Deprecated",
+      "scope": "invalid.deprecated",
+      "settings": {
+        "background": "#B89485",
+        "fontStyle": "",
+        "foreground": "#EEE7F2"
       }
     }
   ]
